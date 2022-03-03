@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Summa Program\bin\Debug\net5.0\Summa Program.exe
+C:\Users\Admin\Desktop\Summa Program\bin\Debug\net5.0\Summa Program.deps.json
+C:\Users\Admin\Desktop\Summa Program\bin\Debug\net5.0\Summa Program.runtimeconfig.json
+C:\Users\Admin\Desktop\Summa Program\bin\Debug\net5.0\Summa Program.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Summa Program\bin\Debug\net5.0\Summa Program.dll
+C:\Users\Admin\Desktop\Summa Program\bin\Debug\net5.0\ref\Summa Program.dll
+C:\Users\Admin\Desktop\Summa Program\bin\Debug\net5.0\Summa Program.pdb
+C:\Users\Admin\Desktop\Summa Program\obj\Debug\net5.0\Summa Program.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Summa Program\obj\Debug\net5.0\Summa Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Summa Program\obj\Debug\net5.0\Summa Program.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Summa Program\obj\Debug\net5.0\Summa Program.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Summa Program\obj\Debug\net5.0\Summa Program.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Summa Program\obj\Debug\net5.0\Summa Program.dll
+C:\Users\Admin\Desktop\Summa Program\obj\Debug\net5.0\ref\Summa Program.dll
+C:\Users\Admin\Desktop\Summa Program\obj\Debug\net5.0\Summa Program.pdb
+C:\Users\Admin\Desktop\Summa Program\obj\Debug\net5.0\Summa Program.genruntimeconfig.cache
